@@ -9,3 +9,5 @@ Shorten the link with python using Bitly API and for front ens using Django<br>
 ```$ sudo python3 setup.py install```<br><br>
 ***2) Now run the local server by using this following command***<br>
 ```$ sudo python3 manage.py runserver```
+<br><br>
+***Screenshots***
