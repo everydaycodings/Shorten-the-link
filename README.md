@@ -1,5 +1,5 @@
 # Shorten-the-link
-Shorten the link with python using Bitly API and for front ens using Django<br>
+Shorten the link with python using Bitly API and for front end using Django<br>
 <br>
 **Steps to run this app in your pc**<br>
 
@@ -11,3 +11,5 @@ Shorten the link with python using Bitly API and for front ens using Django<br>
 ```$ sudo python3 manage.py runserver```
 <br><br>
 ***Screenshots***
+![](https://github.com/everydaycodings/Shorten-the-link/blob/master/screenshot2.png)<br>
+![](https://github.com/everydaycodings/Shorten-the-link/blob/master/screenshot1.png)
