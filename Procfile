@@ -1,0 +1,1 @@
+web: gunicorn Link_shortern.wsgi
