@@ -24,4 +24,5 @@ def result(request):
     url = short_url
     context = {"link": url}
 
-    return render(request, "link/result.html", context)
+    return render(request, "link/result.html", context
+    )
