@@ -10,6 +10,6 @@ Shorten the link with python using Bitly API and for front end using Django<br>
 ***2) Now run the local server by using this following command***<br>
 ```$ sudo python3 manage.py runserver```
 <br><br>
-***Screenshots***
+***Screenshots:***
 ![](https://github.com/everydaycodings/Shorten-the-link/blob/master/screenshot2.png)<br>
 ![](https://github.com/everydaycodings/Shorten-the-link/blob/master/screenshot1.png)
